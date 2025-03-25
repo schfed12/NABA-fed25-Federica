@@ -1,0 +1,64 @@
+body {
+    background-color: white;
+    font-family: "Apis" , sans-serif;
+}
+/*
+div {
+    border: 1px solid black;
+    padding: 10px;
+    border-right-width: 25px;
+    border-left-width: 25px;
+    border-right-color: blue;
+    border-left-color: green;
+}
+    /* se voglio fare il bordo a puntini border-style: dotted; */
+div {
+    height: 5px;
+}
+span {
+    font-weight: bold;
+}
+ .letters {
+    color: red;
+    font-size: 5px;
+
+}
+.be {
+    font-size 12px;
+    font-family: Arial;
+} 
+.sel {
+    color: violet;
+    font-size: 36px;
+    font-family: Arial;}
+
+table {
+    border: 1px solid black;
+}
+
+.gr{
+    background-color: green;
+}
+.rd{
+    background-color: red;
+}
+.wh{
+    background-color: white;
+}
+.bl{
+    background-color: black;
+}
+.re{
+    background-color: red;
+}
+.yw{
+    background-color: yellow;
+}
+.porgr{
+    background-color: green;
+    width: 50px;
+}
+.porrd{
+    background-color: red;
+    width: 150px;
+}
