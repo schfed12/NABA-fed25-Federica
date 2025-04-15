@@ -1,0 +1,58 @@
+body {
+    background-color: ivory;
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+}
+ul li {
+    list-style-type: square;
+    display: block;
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+    margin-bottom: 20px;
+    width: 200px;
+    margin-left: 10px;
+
+
+}
+ul {
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+}
+.em {
+    width: 10em;
+}
+html {
+    font-size: 24px;
+}
+.rem {
+    font-size: 1.5rem;
+    width: 10rem;
+}
+.perc {
+    width: 50%;
+    font-size: 80%;
+    margin-left: 0px;
+}
+ul {
+    width: 1000px;
+    background-color: lightblue;
+}
+.vh {
+    width: 50vw;
+    height: 10vh;
+    box-sizing: border-box;
+}
+.ul-02 {
+    border: 1px solid red;
+    background-color: white;
+}
+.ul-02 .px {
+    padding: 3px;
+    background-color: purple;
+}
+.ul-02 .vh {
+    width: 40 vw;
+    height: 80 vh;
+    background-color: magenta;
+}

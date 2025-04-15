@@ -1,0 +1,41 @@
+body {
+    background-color: lightgray;
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+}
+.box-model-test {
+    border: 20px solid black;
+    padding: 20px;
+    margin: 20px;
+    height:200px;
+    width: 300px;
+
+}
+.box-model-test-01 {
+    border: 20px solid purple;
+    background-color: white;
+    height:200px;
+    width: 300px;
+
+}
+.box-model-test-02 {
+    border: 20px solid green;
+    background-color: lightcoral;
+    box-model: content-box;
+    height:200px;
+    width: 300px;
+
+}
+a:link {
+    color: red;
+    text-decoration: none;
+}
+a:hover {
+    color:blue;
+}
+a:visited {
+    color: green;
+}
+a:focus {
+    color: purple;
+}
